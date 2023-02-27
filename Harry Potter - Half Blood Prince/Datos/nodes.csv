@@ -1,0 +1,192 @@
+node_id	Id	Type
+0	Harry Potter	Person
+1	Albus Dumbledore	Person
+2	Morfin Gaunt	Person
+3	Ogden	Person
+4	Morfin	Person
+5	Gaunt	Person
+6	Merope	Person
+7	Tom Riddle	Person
+8	Ron Weasley	Person
+9	Hermione Granger	Person
+10	Molly Weasley	Person
+11	Arthur Weasley	Person
+12	Ginny	Person
+13	Neville	Person
+14	Luna	Person
+15		Person
+16	Horace Slughorn	Person
+17	Draco Malfoy	Person
+18	Pansy	Person
+19	Seamus	Person
+20	Phineas Nigellus	Person
+21	Marvolo	Person
+22	Lord Voldemort	Person
+23	Twycross	Person
+24	Ernie	Person
+25	Lavender Brown	Person
+26	Lupin	Person
+27	Narcissa Malfoy	Person
+28	Madam Malkin	Person
+29	Narcissa	Person
+30	Hagrid	Person
+31	Fred Weasley	Person
+32	George	Person
+33	Verity	Person
+34	Mr. Borgin	Person
+35	Nymphadora Tonks	Person
+36	Nearly Headless Nick	Person
+37	Dean	Person
+38	Sprout	Person
+39	Hepzibah Smith	Person
+40	Hokey	Person
+41	Professor Trelawney	Person
+42	Madam Rosmerta	Person
+43	Mundungus	Person
+44	Katie Bell	Person
+45	Grawp	Person
+46	Rufus Scrimgeour	Person
+47	Augusta Longbottom	Person
+48	Vernon Dursley	Person
+49	Dudley Dursley	Person
+50	Aunt Petunia	Person
+51	Kreacher	Person
+52	Mrs. Cole	Person
+53	TomRiddle	Person
+54	Severus Snape	Person
+55	Romilda	Person
+56	Peeves	Person
+57	Parvati	Person
+58	Worple	Person
+59	Filch	Person
+60	Minerva McGonagall	Person
+61	Madam Pomfrey	Person
+62	Dobby	Person
+63	Parvati Patil	Person
+64	Ernie Macmillan	Person
+65	Terry Boot	Person
+66	Michael Corner	Person
+67	Zacharias	Person
+68	Coote	Person
+69	Madam Hooch	Person
+70	Bellatrix Lestrange	Person
+71	Wormtail	Person
+72	Mrs Weasley	Person
+73	Fleur	Person
+74	Scrimgeour	Person
+75	Pansy Parkinson	Person
+76	Myrtle	Person
+77	Fenrir	Person
+78	Amycus	Person
+79	Arthur	Person
+80	Prime Minister	Person
+81	Fudge	Person
+82	 Ron Weasley	Person
+83	 Hermione Granger	Person
+84	 Albus Dumbledore	Person
+85	 Harry Potter	Person
+86	 Ogden	Person
+87	 Morfin Gaunt	Person
+88	 Mr. Gaunt	Person
+89	 Merope	Person
+90	 Morfin	Person
+91	 Gaunt	Person
+92	 Cecilia	Person
+93	 Fleur	Person
+94	 Auror	Person
+95	 Arthur Weasley	Person
+96	 Ginny	Person
+97	 Neville	Person
+98	 Luna	Person
+99	 Cho Chang	Person
+100	 Belby	Person
+101	 McLaggen	Person
+102	 Zabini	Person
+103	 Draco Malfoy	Person
+104	 Pansy	Person
+105	 Goyle	Person
+106	 Molly Weasley	Person
+107	 Lavender Brown	Person
+108	 Lord Voldemort	Person
+109	 Tom Riddle	Person
+110	 Horace Slughorn	Person
+111	 Phineas Nigellus	Person
+112	 Ernie Macmillan	Person
+113	 Crabbe	Person
+114	 Susan	Person
+115	 Dean	Person
+116	 Remus	Person
+117	 Bill	Person
+118		Person
+119	 Lupin	Person
+120	 Hagrid	Person
+121	 Arthur	Person
+122	 Narcissa Malfoy	Person
+123	 Narcissa	Person
+124	 Madam Malkin	Person
+125	 Fred Weasley	Person
+126	 George	Person
+127	 Mrs Weasley	Person
+128	 Borgin	Person
+129	 Mr. Borgin	Person
+130	 Nymphadora Tonks	Person
+131	 Severus Snape	Person
+132	 Nearly Headless Nick	Person
+133	 Parvati	Person
+134	 Cormac McLaggen	Person
+135	 Buckbeak	Person
+136	 Demelza	Person
+137	 Ernie	Person
+138	 Sprout	Person
+139	 Professor Trelawney	Person
+140	 Professor Dippet	Person
+141	 Hogwarts	Person
+142	 Hokey	Person
+143	 Hepzibah Smith	Person
+144	 Madam Rosmerta	Person
+145	 Filch	Person
+146	 Mundungus Fletcher	Person
+147	 Mundungus	Person
+148	 Leanne	Person
+149	 Katie Bell	Person
+150	 Minerva McGonagall	Person
+151	 Scrimgeour	Person
+152	 Ministry of Magic	Person
+153	 Rufus Scrimgeour	Person
+154	 Petunia Dursley	Person
+155	 Vernon Dursley	Person
+156	 Kreacher	Person
+157	 Aunt Petunia	Person
+158	 The Dursleys	Person
+159	 Fenrir	Person
+160	 Dark Lord	Person
+161	 Regulus Arcturus Black	Person
+162	 Mrs. Cole	Person
+163	 Katie	Person
+164	 The Room of Requirement	Person
+165	 Madam Pince	Person
+166	 Romilda Vane	Person
+167	 Firenze	Person
+168	 Sybill Trelawney	Person
+169	 Madam Pomfrey	Person
+170	 Dobby	Person
+171	 Peeves	Person
+172	 Jack Sloper	Person
+173	 Harper	Person
+174	 Zacharias	Person
+175	 Coote	Person
+176	 Bellatrix Lestrange	Person
+177	 Wormtail	Person
+178	 Celestina	Person
+179	 Percy Weasley	Person
+180	 Myrtle	Person
+181	 Nick	Person
+182	 Granger	Person
+183	 Amycus	Person
+184	 Greyback	Person
+185	 Everard	Person
+186	 Political Opponent	Person
+187	 Junior Minister Herbert Chorley	Person
+188	 Fudge	Person
+189	 Cornelius Fudge	Person
+190	 Prime Minister	Person

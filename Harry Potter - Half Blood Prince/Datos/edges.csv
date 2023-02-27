@@ -1,0 +1,1672 @@
+Source	Target	Sentimiento	Intensidad	Type
+Harry Potter	 Ron Weasley	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Annoyance	0.4	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Annoyance	0.7	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Morfin Gaunt	 Ogden	Anger	1.0	Interaction
+Ogden	 Morfin Gaunt	Disgust	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.5	Interaction
+Morfin	 Mr. Gaunt	Anger	0.9	Interaction
+Ogden	 Mr. Gaunt	Resolute	0.8	Interaction
+Morfin	 Merope	Sad	0.9	Interaction
+Gaunt	 Merope	Anger	0.8	Interaction
+Morfin	 Merope	Disgust	0.9	Interaction
+Ogden	 Merope	Gratitude	0.8	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Morfin	Fear	0.7	Interaction
+Gaunt	 Ogden	Anger	1.0	Interaction
+Gaunt	 Ogden	Betrayal	0.8	Interaction
+Merope	 Gaunt	Fear	0.7	Interaction
+Tom Riddle	 Cecilia	Disgust	0.9	Interaction
+Morfin	 Merope	Envy	0.7	Interaction
+Gaunt	 Morfin	Fear	0.8	Interaction
+Gaunt	 Merope	Fear	0.9	Interaction
+Morfin	 Merope	Betrayal	0.9	Interaction
+Gaunt	 Merope	Anger	1.0	Interaction
+Ogden	 Gaunt	Fear	1.0	Interaction
+Morfin	 Ogden	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.5	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.6	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Curiosity	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Fear	1.0	Interaction
+Ron Weasley	 Harry Potter	Fear	1.0	Interaction
+Hermione Granger	 Harry Potter	Anxiety	1.0	Interaction
+Molly Weasley	 Harry Potter	Happy	0.7	Interaction
+Ron Weasley	 Fleur	Disgust	0.9	Interaction
+Molly Weasley	 Fleur	Tarty	0.8	Interaction
+Harry Potter	 Auror	Fear	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Sad	0.7	Interaction
+Harry Potter	 Arthur Weasley	Friendship	1.0	Interaction
+Harry Potter	 Arthur Weasley	Amusement	0.5	Interaction
+Harry Potter	 Arthur Weasley	Resignation	0.8	Interaction
+Harry Potter	 Ginny	Friendship	0.8	Interaction
+Arthur Weasley	 Harry Potter	Gratitude	0.7	Interaction
+Molly Weasley	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Arthur Weasley	Anger	0.9	Interaction
+Harry Potter	 Neville	Happy	0.7	Interaction
+Ginny	 Harry Potter	Sad	0.8	Interaction
+Harry Potter	 Neville	Friendship	0.8	Interaction
+Harry Potter	 Luna	Friendship	0.8	Interaction
+Harry Potter	 Luna	Gratitude	0.9	Interaction
+Harry Potter	 Neville	Friendship	0.7	Interaction
+Harry Potter	 Neville	Surprise	0.7	Interaction
+Harry Potter	 Neville	Gratitude	0.8	Interaction
+Harry Potter	 Neville	Gratitude	0.7	Interaction
+Neville	 Harry Potter	Gratitude	0.8	Interaction
+Harry Potter	 Luna	Friendship	0.7	Interaction
+Harry Potter	 Neville	Gratitude	1.0	Interaction
+Luna	 Harry Potter	Gratitude	0.8	Interaction
+Neville	 Harry Potter	Friendship	0.8	Interaction
+Luna	 Harry Potter	Friendship	0.9	Interaction
+Luna	 Harry Potter	Friendship	0.9	Interaction
+		Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Interest	0.5	Interaction
+Neville	 Harry Potter	Interest	0.5	Interaction
+Harry Potter	 Neville	Enmity	1.0	Interaction
+Harry Potter	 Cho Chang	Surprise	0.7	Interaction
+Harry Potter	 Ginny	Surprise	0.7	Interaction
+Horace Slughorn	 Neville	Friendliness	0.9	Interaction
+Horace Slughorn	 Belby	Fear	0.8	Interaction
+Horace Slughorn	 Belby	Disgust	0.7	Interaction
+Horace Slughorn	 McLaggen	Friendliness	0.9	Interaction
+Horace Slughorn	 Zabini	Disgust	0.6	Interaction
+Horace Slughorn	 Ginny	Happy	0.7	Interaction
+Ginny	 Zabini	Anger	0.9	Interaction
+Ginny	 Neville	Friendship	0.8	Interaction
+Harry Potter	 Zabini	Anger	0.9	Interaction
+Draco Malfoy	 Zabini	Anger	0.9	Interaction
+Pansy	 Draco Malfoy	Surprise	0.7	Interaction
+Harry Potter	 Draco Malfoy	Fear	1.0	Interaction
+Draco Malfoy	 Pansy	Romance	1.0	Interaction
+Harry Potter	 Goyle	Fear	1.0	Interaction
+Draco Malfoy	 Pansy	Gratitude	0.5	Interaction
+Draco Malfoy	 Harry Potter	Anger	1.0	Interaction
+Draco Malfoy	 Harry Potter	Disgust	1.0	Interaction
+Molly Weasley	 Harry Potter	Sad	0.7	Interaction
+Molly Weasley	 Ron Weasley	Sad	0.9	Interaction
+Molly Weasley	 Ginny	Sad	0.8	Interaction
+Molly Weasley	 Harry Potter	Gratitude	0.7	Interaction
+Harry Potter	 Molly Weasley	Friendship	0.9	Interaction
+Ron Weasley	 Molly Weasley	Friendship	0.8	Interaction
+Ginny	 Molly Weasley	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Ron Weasley	 Lavender Brown	Happy	1.0	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.6	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Hermione Granger	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Exasperation	1.0	Interaction
+Harry Potter	 Hermione Granger	Exasperation	1.0	Interaction
+Ron Weasley	 Hermione Granger	Annoyance	0.5	Interaction
+Harry Potter	 Ron Weasley	Amusement	0.5	Interaction
+Harry Potter	 Ron Weasley	Amusement	0.7	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.5	Interaction
+Seamus	 Neville	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.5	Interaction
+Phineas Nigellus	 Albus Dumbledore	Disgust	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Understanding	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Resentment	0.9	Interaction
+Marvolo	 Lord Voldemort	Anger	1.0	Interaction
+Lord Voldemort	 Morfin	Envy	0.5	Interaction
+Morfin	 Lord Voldemort	Anger	1.0	Interaction
+Albus Dumbledore	 Tom Riddle	Surprise	0.2	Interaction
+Tom Riddle	 Horace Slughorn	Gratitude	0.6	Interaction
+Horace Slughorn	 Tom Riddle	Fear	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.6	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Phineas Nigellus	Envy	0.5	Interaction
+Albus Dumbledore	 Phineas Nigellus	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	0.8	Interaction
+Harry Potter	 Hermione Granger	Anger	0.9	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.6	Interaction
+Harry Potter	 Ernie Macmillan	Friendship	0.5	Interaction
+Harry Potter	 Hermione Granger	Envy	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.5	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.9	Interaction
+Harry Potter	 Horace Slughorn	Fear	1.0	Interaction
+Ron Weasley	 Hermione Granger	Anger	1.0	Interaction
+Harry Potter	 Horace Slughorn	Fear	0.5	Interaction
+Horace Slughorn	 Harry Potter	Fear	1.0	Interaction
+Horace Slughorn	 Harry Potter	Suspicion	0.7	Interaction
+Harry Potter	 Ron Weasley	Anger	0.8	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Harry Potter	 Horace Slughorn	Anger	0.7	Interaction
+Ron Weasley	 Hermione Granger	Anger	0.7	Interaction
+Hermione Granger	 Harry Potter	Anger	0.6	Interaction
+Harry Potter	 Draco Malfoy	Disgust	0.9	Interaction
+Draco Malfoy	 Crabbe	Anger	0.7	Interaction
+Harry Potter	 Draco Malfoy	Disgust	0.8	Interaction
+Harry Potter	 Draco Malfoy	Disgust	0.9	Interaction
+Twycross	 Susan	Surprise	1.0	Interaction
+Ernie	 Dean	Laughter	1.0	Interaction
+Harry Potter	 Hermione Granger	Annoyance	0.8	Interaction
+Ron Weasley	 Harry Potter	Happy	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.9	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.9	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.9	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Ron Weasley	 Harry Potter	Anger	1.0	Interaction
+Harry Potter	 Ron Weasley	Gratitude	0.3	Interaction
+Harry Potter	 Ron Weasley	Betrayal	1.0	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Lavender Brown	 Ron Weasley	Disgust	0.7	Interaction
+Harry Potter	 Lavender Brown	Amusement	0.7	Interaction
+Ron Weasley	 Horace Slughorn	Excitement	0.8	Interaction
+Horace Slughorn	 Harry Potter	Amusement	0.8	Interaction
+Ron Weasley	 Harry Potter	Excitement	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Horace Slughorn	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Horace Slughorn	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Fear	1.0	Interaction
+Horace Slughorn	 Ron Weasley	Shock	1.0	Interaction
+Harry Potter	 Horace Slughorn	Anger	1.0	Interaction
+Harry Potter	 Ron Weasley	Fear	1.0	Interaction
+Horace Slughorn	 Harry Potter	Shock	1.0	Interaction
+Harry Potter	 Horace Slughorn	Urgency	1.0	Interaction
+Harry Potter	 Ron Weasley	Fear	1.0	Interaction
+Ron Weasley	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Remus	Sad	0.8	Interaction
+Molly Weasley	 Bill	Disgust	0.4	Interaction
+Ron Weasley	 Molly Weasley	Fear	0.8	Interaction
+Molly Weasley	 Bill	Anger	0.9	Interaction
+Arthur Weasley	 Ginny	Surprise	0.8	Interaction
+Ginny		Fear	0.7	Interaction
+Arthur Weasley	 Ginny	Fear	0.7	Interaction
+Ginny	 Lupin	Fear	0.7	Interaction
+Lupin		Fear	0.5	Interaction
+Harry Potter	 Ron Weasley	Happy	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Molly Weasley	 Ron Weasley	Anger	0.9	Interaction
+Molly Weasley	 Ron Weasley	Anger	0.9	Interaction
+Ron Weasley	 Molly Weasley	Fear	0.8	Interaction
+Molly Weasley	 Ron Weasley	Anger	0.9	Interaction
+Ron Weasley	 Harry Potter	Gratitude	0.8	Interaction
+Harry Potter	 Hagrid	Happy	0.9	Interaction
+Molly Weasley	 Arthur	Friendly	0.8	Interaction
+Tom Riddle	 Hagrid	Disappointment	0.6	Interaction
+Molly Weasley	 Hagrid	Happy	0.7	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Molly Weasley	 Hagrid	Fear	0.9	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.8	Interaction
+Draco Malfoy	 Harry Potter	Happy	0.6	Interaction
+Narcissa Malfoy	 Harry Potter	Anger	1.0	Interaction
+Madam Malkin	 Draco Malfoy	Happy	0.2	Interaction
+Harry Potter	 Narcissa Malfoy	Anger	0.9	Interaction
+Ron Weasley	 Narcissa Malfoy	Disgust	0.8	Interaction
+Draco Malfoy	 Narcissa	Fear	1.0	Interaction
+Harry Potter	 Hermione Granger	Fear	0.7	Interaction
+Draco Malfoy	 Madam Malkin	Anger	0.9	Interaction
+Narcissa	 Draco Malfoy	Surprise	0.5	Interaction
+Draco Malfoy	 Ron Weasley	Anger	1.0	Interaction
+Madam Malkin	 Hermione Granger	Disgust	0.8	Interaction
+Madam Malkin	 Ron Weasley	Gratitude	0.3	Interaction
+Hagrid	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Molly Weasley	 Harry Potter	Grateful	0.5	Interaction
+Molly Weasley	 Harry Potter	Disgust	0.3	Interaction
+Ron Weasley	 Harry Potter	Happy	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	0.8	Interaction
+Ron Weasley	 Hermione Granger	Surprise	0.9	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Hermione Granger	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Fred Weasley	Happy	0.9	Interaction
+Hermione Granger	 Fred Weasley	Surprise	0.8	Interaction
+Hermione Granger	 Fred Weasley	Grateful	0.8	Interaction
+Fred Weasley	 Harry Potter	Fear	0.3	Interaction
+Hermione Granger	 Fred Weasley	Fear	0.8	Interaction
+Harry Potter	 Fred Weasley	Friendship	0.7	Interaction
+George	 Harry Potter	Friendship	0.7	Interaction
+George	 Harry Potter	Gratitude	1.0	Interaction
+Fred Weasley	 George	Friendship	1.0	Interaction
+George	 Fred Weasley	Friendship	1.0	Interaction
+George	 Fred Weasley	Friendship	1.0	Interaction
+Fred Weasley	 George	Friendship	0.8	Interaction
+Verity	 Harry Potter	Gratitude	0.5	Interaction
+Harry Potter	 Fred Weasley	Happy	1.0	Interaction
+Fred Weasley	 George	Stern	1.0	Interaction
+George	 Harry Potter	Gratitude	1.0	Interaction
+Fred Weasley	 Hermione Granger	Friendly	0.5	Interaction
+Fred Weasley	 Ginny	Happy	1.0	Interaction
+Ginny	 Fred Weasley	Skeptical	1.0	Interaction
+George	 Fred Weasley	Stern	1.0	Interaction
+Ginny	 George	Calm	1.0	Interaction
+Ginny	 Fred Weasley	Curious	1.0	Interaction
+Ginny	 Fred Weasley	Anger	1.0	Interaction
+Ron Weasley	 Fred Weasley	Envy	0.5	Interaction
+Ron Weasley	 Fred Weasley	Surprise	0.5	Interaction
+Ron Weasley	 Fred Weasley	Anger	1.0	Interaction
+Ron Weasley	 Molly Weasley	Fear	0.8	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.5	Interaction
+Ron Weasley	 Hermione Granger	Curious	0.7	Interaction
+Hermione Granger	 Ron Weasley	Questioning	0.8	Interaction
+Harry Potter	 Mrs Weasley	Curiosity	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.3	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.6	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.5	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.7	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.4	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Pain	0.8	Interaction
+Harry Potter	 Hermione Granger	Happy	0.9	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Draco Malfoy		Fear	1.0	Interaction
+Draco Malfoy		Envy	0.8	Interaction
+Draco Malfoy		Betrayal	0.8	Interaction
+Draco Malfoy	 Borgin	Gratitude	0.8	Interaction
+Ron Weasley	 Harry Potter	Curiosity	0.9	Interaction
+Draco Malfoy	 Borgin	Satisfaction	0.9	Interaction
+Harry Potter	 Ron Weasley	Curiosity	0.9	Interaction
+Ron Weasley	 Harry Potter	Fear	1.0	Interaction
+Hermione Granger	 Mr. Borgin	Surprise	1.0	Interaction
+Mr. Borgin	 Harry Potter	Surprise	0.3	Interaction
+Hermione Granger	 Mr. Borgin	Fear	0.8	Interaction
+Ron Weasley	 Hermione Granger	Anger	0.8	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Nymphadora Tonks	 Harry Potter	Surprise	0.9	Interaction
+Harry Potter	 Nymphadora Tonks	Gratitude	0.8	Interaction
+Nymphadora Tonks	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Nymphadora Tonks	Friendship	0.8	Interaction
+Harry Potter	 Nymphadora Tonks	Friendship	0.5	Interaction
+Harry Potter	 Nymphadora Tonks	Surprise	1.0	Interaction
+Harry Potter	 Nymphadora Tonks	Friendship	0.5	Interaction
+Harry Potter	 Nymphadora Tonks	Anger	0.9	Interaction
+Harry Potter	 Severus Snape	Loathing	1.0	Interaction
+Nymphadora Tonks	 Severus Snape	Disgust	0.7	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Hermione Granger	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Gratitude	1.0	Interaction
+Hermione Granger	 Harry Potter	Concern	1.0	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Hermione Granger	 Harry Potter	Concern	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.5	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.7	Interaction
+Nearly Headless Nick	 Harry Potter	Friendship	0.9	Interaction
+Ron Weasley	 Nearly Headless Nick	Amusement	0.4	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.7	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.7	Interaction
+Ron Weasley	 Hermione Granger	Surprise	0.7	Interaction
+Ron Weasley	 Hermione Granger	Surprise	0.5	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	0.7	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Hagrid	Happy	0.8	Interaction
+Harry Potter	 Hagrid	Stubborn	0.9	Interaction
+Hagrid	 Harry Potter	Gratitude	0.9	Interaction
+Hagrid	 Harry Potter	Happy	0.8	Interaction
+Ron Weasley	 Hagrid	Disgust	0.6	Interaction
+Hagrid	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Relief	0.7	Interaction
+Ron Weasley	 Harry Potter	Relief	0.7	Interaction
+Harry Potter	 Ron Weasley	Fear	0.5	Interaction
+Harry Potter	 Hermione Granger	Romance	0.85	Interaction
+Ron Weasley	 Hermione Granger	Disgust	0.7	Interaction
+Ron Weasley	 Hermione Granger	Disgust	0.9	Interaction
+Hermione Granger	 Harry Potter	Anger	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	0.7	Interaction
+Ron Weasley	 Parvati	Happy	1.0	Interaction
+Hermione Granger	 Ron Weasley	Sad	0.9	Interaction
+Ron Weasley	 Cormac McLaggen	Surprise	0.7	Interaction
+Harry Potter	 Cormac McLaggen	Anger	0.8	Interaction
+Lavender Brown	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Gratitude	0.5	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Buckbeak	Friendship	0.9	Interaction
+Hagrid	 Harry Potter	Anger	0.9	Interaction
+Hermione Granger	 Ron Weasley	Fear	0.7	Interaction
+Harry Potter	 Hagrid	Betrayal	1.0	Interaction
+Hermione Granger	 Hagrid	Happy	0.8	Interaction
+Harry Potter	 Hagrid	Surprise	0.8	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Disapproval	0.8	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.8	Interaction
+Horace Slughorn	 Hermione Granger	Romance	0.9	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.9	Interaction
+Harry Potter	 Hermione Granger	Fear	0.7	Interaction
+Hermione Granger	 Ron Weasley	Annoyance	0.6	Interaction
+Ron Weasley	 Hermione Granger	Annoyance	0.8	Interaction
+Harry Potter	 Hermione Granger	Curiosity	0.9	Interaction
+Hermione Granger	 Ron Weasley	Gratitude	0.7	Interaction
+Harry Potter	 Hermione Granger	Curiosity	0.9	Interaction
+Hermione Granger	 Harry Potter	Surprise	0.8	Interaction
+Ron Weasley	 Harry Potter	Anger	0.6	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Ron Weasley	 Harry Potter	Sadness	0.8	Interaction
+Harry Potter	 Demelza	Hope	0.7	Interaction
+Harry Potter	 Demelza	Disappointment	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Curiosity	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Fear	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Fear	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Fear	1.0	Interaction
+Horace Slughorn	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Horace Slughorn	Gratitude	0.7	Interaction
+Horace Slughorn	 Albus Dumbledore	Gratitude	0.8	Interaction
+Albus Dumbledore	 Horace Slughorn	Happy	1.0	Interaction
+Albus Dumbledore	 Horace Slughorn	Gratitude	0.5	Interaction
+Albus Dumbledore	 Horace Slughorn	Surprise	0.7	Interaction
+Horace Slughorn	 Albus Dumbledore	Fear	0.9	Interaction
+Horace Slughorn	 Harry Potter	Friendly	0.7	Interaction
+Horace Slughorn	 Harry Potter	Friendly	0.9	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.7	Interaction
+Harry Potter	 Horace Slughorn	Friendship	1.0	Interaction
+Horace Slughorn	 Harry Potter	Gratitude	0.9	Interaction
+Horace Slughorn	 Harry Potter	Friendship	0.9	Interaction
+Horace Slughorn	 Harry Potter	Gratitude	0.9	Interaction
+Harry Potter	 Horace Slughorn	Envy	0.5	Interaction
+Harry Potter	 Horace Slughorn	Fear	1.0	Interaction
+Harry Potter	 Horace Slughorn	Surprise	1.0	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.5	Interaction
+Albus Dumbledore	 Horace Slughorn	Friendship	1.0	Interaction
+Albus Dumbledore	 Horace Slughorn	Friendship	0.8	Interaction
+Horace Slughorn	 Albus Dumbledore	Gratitude	0.6	Interaction
+Albus Dumbledore	 Horace Slughorn	Joy	1.0	Interaction
+Horace Slughorn	 Albus Dumbledore	Betrayal	0.2	Interaction
+Horace Slughorn	 Albus Dumbledore	Gratitude	0.8	Interaction
+Horace Slughorn	 Albus Dumbledore	Envy	0.4	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.2	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.4	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Fear	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Relief	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Amusement	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.6	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Fear	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Calm	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.2	Interaction
+Albus Dumbledore	 Harry Potter	Authority	0.6	Interaction
+Harry Potter	 Albus Dumbledore	Fear	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Concern	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Sad	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Panic	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Panic	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Desperation	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Compassion	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Hermione Granger	Sad	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Betrayal	0.9	Interaction
+Ron Weasley	 Hermione Granger	Anger	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Sadness	0.6	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Sadness	0.7	Interaction
+Ron Weasley	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Happy	0.7	Interaction
+Ron Weasley	 Hermione Granger	Happy	0.8	Interaction
+Harry Potter	 Hermione Granger	Sad	0.5	Interaction
+Ron Weasley	 Hermione Granger	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Hermione Granger	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Ernie	Friendship	0.5	Interaction
+Harry Potter	 Draco Malfoy	Friendship	0.2	Interaction
+Ernie	 Horace Slughorn	Happy	1.0	Interaction
+Draco Malfoy	 Horace Slughorn	Irritated	0.8	Interaction
+Horace Slughorn	 Draco Malfoy	Amusement	0.7	Interaction
+Harry Potter	 Draco Malfoy	Happy	1.0	Interaction
+Draco Malfoy	 Harry Potter	Envy	0.7	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.7	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	0.5	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.2	Interaction
+Ron Weasley	 Harry Potter	Envy	0.4	Interaction
+Harry Potter	 Ron Weasley	Gratitude	0.7	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Ron Weasley	 Hermione Granger	Fear	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.9	Interaction
+Ron Weasley	 Hermione Granger	Surprise	0.7	Interaction
+Ron Weasley	 Hermione Granger	Fear	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Lavender Brown	 Ron Weasley	Envy	0.7	Interaction
+Ginny	 Dean	Annoyance	1.0	Interaction
+Dean	 Ginny	Anger	1.0	Interaction
+Harry Potter	 Ginny	Happy	1.0	Interaction
+Harry Potter	 Horace Slughorn	Friendship	0.5	Interaction
+Horace Slughorn	 Sprout	Friendship	0.75	Interaction
+Sprout	 Horace Slughorn	Friendship	1.0	Interaction
+Harry Potter	 Horace Slughorn	Surprise	1.0	Interaction
+Horace Slughorn	 Harry Potter	Fear	1.0	Interaction
+Harry Potter	 Horace Slughorn	Friendship	0.5	Interaction
+Horace Slughorn	 Harry Potter	Disgust	0.8	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.3	Interaction
+Harry Potter	 Horace Slughorn	Happy	0.8	Interaction
+Hagrid	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Hagrid	Sad	0.8	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	1.0	Interaction
+Hagrid	 Horace Slughorn	Gratitude	0.9	Interaction
+Horace Slughorn	 Hagrid	Gratitude	0.8	Interaction
+Hagrid	 Horace Slughorn	Surprise	0.8	Interaction
+Horace Slughorn	 Hagrid	Gratitude	0.9	Interaction
+Hagrid	 Horace Slughorn	Gratitude	1.0	Interaction
+Horace Slughorn	 Hagrid	Happy	0.7	Interaction
+Horace Slughorn	 Hagrid	Friendship	0.9	Interaction
+Hagrid	 Horace Slughorn	Friendship	1.0	Interaction
+Hagrid	 Harry Potter	Gratitude	0.75	Interaction
+Horace Slughorn	 Harry Potter	Sad	0.8	Interaction
+Harry Potter	 Hagrid	Sad	0.9	Interaction
+Harry Potter	 Horace Slughorn	Friendship	0.9	Interaction
+Harry Potter	 Horace Slughorn	Fear	0.8	Interaction
+Harry Potter	 Horace Slughorn	Surprise	0.9	Interaction
+Harry Potter	 Horace Slughorn	Fear	1.0	Interaction
+Harry Potter	 Horace Slughorn	Surprise	0.9	Interaction
+Harry Potter	 Horace Slughorn	Calm	0.3	Interaction
+Harry Potter	 Horace Slughorn	Fear	0.8	Interaction
+Horace Slughorn	 Harry Potter	Sad	0.8	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.7	Interaction
+Horace Slughorn	 Harry Potter	Gratitude	0.6	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	0.3	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.7	Interaction
+Hermione Granger	 Ron Weasley	Disgust	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Ginny	Romance	0.7	Interaction
+Harry Potter	 Hermione Granger	Happy	0.5	Interaction
+Ron Weasley	 Hermione Granger	Suspicious	0.7	Interaction
+Luna	 Harry Potter	Happy	0.9	Interaction
+Luna	 Ron Weasley	Friendly	0.8	Interaction
+Ron Weasley	 Lavender Brown	Sad	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Albus Dumbledore	 Professor Trelawney	Sad	0.6	Interaction
+Harry Potter	 Albus Dumbledore	Sad	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.3	Interaction
+Albus Dumbledore	 Harry Potter	Disgust	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.2	Interaction
+Albus Dumbledore	 Harry Potter	Encouragement	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.5	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Encouragement	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Determination	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Encouragement	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Happy	0.7	Interaction
+Tom Riddle	 Horace Slughorn	Disgust	0.9	Interaction
+Lord Voldemort	 Professor Dippet	Fear	0.8	Interaction
+Lord Voldemort	 Hogwarts	Friendship	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Fear	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.2	Interaction
+Hepzibah Smith	 Hokey	Gratitude	0.9	Interaction
+Hepzibah Smith	 Hokey	Surprise	0.3	Interaction
+Hepzibah Smith	 Lord Voldemort	Romance	0.7	Interaction
+Hepzibah Smith	 Lord Voldemort	Gratitude	0.9	Interaction
+Lord Voldemort	 Hepzibah Smith	Friendship	0.8	Interaction
+Hokey	 Hepzibah Smith	Friendship	0.8	Interaction
+Hepzibah Smith	 Lord Voldemort	Friendship	0.8	Interaction
+Hepzibah Smith	 Lord Voldemort	Amusement	0.7	Interaction
+Lord Voldemort	 Hepzibah Smith	Impatience	0.9	Interaction
+Hepzibah Smith	 Lord Voldemort	Mischievousness	0.8	Interaction
+Lord Voldemort	 Hepzibah Smith	Resignation	0.8	Interaction
+Hepzibah Smith	 Lord Voldemort	Playfulness	0.9	Interaction
+Lord Voldemort	 Hepzibah Smith	Admiration	0.8	Interaction
+Hepzibah Smith	 Lord Voldemort	Happy	0.5	Interaction
+Lord Voldemort	 Hepzibah Smith	Gratitude	0.3	Interaction
+Hepzibah Smith	 Lord Voldemort	Friendship	0.9	Interaction
+Hepzibah Smith	 Lord Voldemort	Happy	0.8	Interaction
+Lord Voldemort	 Hepzibah Smith	Surprise	0.9	Interaction
+Lord Voldemort	 Hepzibah Smith	Envy	0.7	Interaction
+Hepzibah Smith	 Lord Voldemort	Friendship	0.8	Interaction
+Lord Voldemort	 Hepzibah Smith	Surprise	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.5	Interaction
+Albus Dumbledore	 Harry Potter	Friendly	1.0	Interaction
+Albus Dumbledore	 Lord Voldemort	Friendship	0.2	Interaction
+Albus Dumbledore	 Lord Voldemort	Gratitude	0.7	Interaction
+Albus Dumbledore	 Lord Voldemort	Friendship	0.5	Interaction
+Albus Dumbledore	 Lord Voldemort	Surprise	0.9	Interaction
+Albus Dumbledore	 Lord Voldemort	Disgust	0.8	Interaction
+Albus Dumbledore	 Lord Voldemort	Betrayal	0.5	Interaction
+Albus Dumbledore	 Lord Voldemort	Gratitude	0.0	Interaction
+Lord Voldemort	 Albus Dumbledore	Surprise	0.8	Interaction
+Albus Dumbledore	 Lord Voldemort	Disgust	0.5	Interaction
+Lord Voldemort	 Albus Dumbledore	Surprise	0.5	Interaction
+Albus Dumbledore	 Lord Voldemort	Surprise	0.5	Interaction
+Lord Voldemort	 Albus Dumbledore	Anger	1.0	Interaction
+Lord Voldemort	 Albus Dumbledore	Anger	1.0	Interaction
+Lord Voldemort	 Albus Dumbledore	Anger	1.0	Interaction
+Lord Voldemort	 Albus Dumbledore	Anger	1.0	Interaction
+Lord Voldemort	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Harry Potter	 Lord Voldemort	Fear	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Curiosity	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Ginny	 Ron Weasley	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Harry Potter	Surprise	0.5	Interaction
+Harry Potter	 Hermione Granger	Anger	0.9	Interaction
+Hermione Granger	 Harry Potter	Determination	0.9	Interaction
+Harry Potter	 Hermione Granger	Annoyance	0.7	Interaction
+Hermione Granger	 Harry Potter	Satisfaction	0.7	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Amusement	0.6	Interaction
+Harry Potter	 Hermione Granger	Amusement	0.8	Interaction
+Harry Potter	 Hermione Granger	Anger	0.9	Interaction
+Hermione Granger	 Harry Potter	Irritated	0.7	Interaction
+Hermione Granger	 Harry Potter	Determined	0.8	Interaction
+Ron Weasley	 Harry Potter	Anger	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.5	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Ron Weasley	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Professor Trelawney	Surprise	1.0	Interaction
+Harry Potter	 Professor Trelawney	Gratitude	0.7	Interaction
+Harry Potter	 Professor Trelawney	Curiosity	0.9	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.8	Interaction
+Harry Potter	 Professor Trelawney	Curiosity	0.8	Interaction
+Harry Potter	 Professor Trelawney	Curiosity	0.8	Interaction
+Professor Trelawney	 Harry Potter	Shifty	0.7	Interaction
+Harry Potter	 Professor Trelawney	Curiosity	0.8	Interaction
+Professor Trelawney	 Harry Potter	Shifty	0.7	Interaction
+Harry Potter	 Professor Trelawney	Curiosity	0.9	Interaction
+Harry Potter	 Professor Trelawney	Happy	1.0	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.5	Interaction
+Professor Trelawney	 Harry Potter	Surprise	0.7	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.7	Interaction
+Professor Trelawney	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.9	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.5	Interaction
+Professor Trelawney	 Harry Potter	Surprise	0.5	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.6	Interaction
+Professor Trelawney	 Harry Potter	Happy	0.9	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.8	Interaction
+Professor Trelawney	 Harry Potter	Happy	1.0	Interaction
+Professor Trelawney	 Harry Potter	Disgust	0.7	Interaction
+Harry Potter	 Professor Trelawney	Gratitude	0.3	Interaction
+Professor Trelawney	 Harry Potter	Surprise	0.6	Interaction
+Professor Trelawney	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Professor Trelawney	Gratitude	0.2	Interaction
+Professor Trelawney	 Harry Potter	Betrayal	0.4	Interaction
+Harry Potter	 Professor Trelawney	Fear	0.7	Interaction
+Professor Trelawney	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.9	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Betrayal	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Anger	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Anger	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Ron Weasley	 Hermione Granger	Happy	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.8	Interaction
+Hermione Granger	 Harry Potter	Fear	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Madam Rosmerta	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Madam Rosmerta	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Sad	0.6	Interaction
+Harry Potter	 Hermione Granger	Envy	0.7	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Neville	Surprise	1.0	Interaction
+Ron Weasley	 Harry Potter	Happy	0.7	Interaction
+Hermione Granger	 Harry Potter	Disgust	0.9	Interaction
+Harry Potter	 Hermione Granger	Frustration	0.8	Interaction
+Harry Potter	 Hermione Granger	Frustration	0.7	Interaction
+Harry Potter	 Hermione Granger	Frustration	0.8	Interaction
+Ron Weasley	 Hermione Granger	Anger	0.9	Interaction
+Harry Potter	 Hermione Granger	Anger	0.8	Interaction
+Ron Weasley	 Hermione Granger	Surprise	0.9	Interaction
+Harry Potter	 Ginny	Friendship	0.7	Interaction
+Ron Weasley	 Filch	Anger	0.8	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Horace Slughorn	Surprise	0.8	Interaction
+Harry Potter	 Ron Weasley	Gratitude	0.5	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Mundungus	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Mundungus Fletcher	Anger	1.0	Interaction
+Ron Weasley	 Mundungus Fletcher	Surprise	0.5	Interaction
+Harry Potter	 Mundungus Fletcher	Disgust	1.0	Interaction
+Hermione Granger	 Harry Potter	Fear	0.8	Interaction
+Harry Potter	 Mundungus	Anger	1.0	Interaction
+Harry Potter	 Nymphadora Tonks	Surprise	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.5	Interaction
+Ron Weasley	 Hermione Granger	Happy	0.8	Interaction
+Hermione Granger	 Ron Weasley	Anger	0.9	Interaction
+Katie Bell	 Leanne	Fear	1.0	Interaction
+Harry Potter	 Hagrid	Surprise	0.5	Interaction
+Hagrid	 Katie Bell	Happy	1.0	Interaction
+Ron Weasley	 Hermione Granger	Fear	1.0	Interaction
+Harry Potter	 Hagrid	Fear	1.0	Interaction
+Hagrid	 Leanne	Friendship	0.5	Interaction
+Hermione Granger	 Leanne	Friendship	0.5	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Leanne	Fear	1.0	Interaction
+Harry Potter	 Ron Weasley	Anger	0.6	Interaction
+Harry Potter	 Minerva McGonagall	Surprise	0.6	Interaction
+Ron Weasley	 Hermione Granger	Fear	0.8	Interaction
+Harry Potter	 Minerva McGonagall	Anger	0.9	Interaction
+Harry Potter	 Minerva McGonagall	Happy	1.0	Interaction
+Ron Weasley	 Hermione Granger	Embarrassment	0.5	Interaction
+Harry Potter	 Hermione Granger	Anger	0.8	Interaction
+Ron Weasley	 Hermione Granger	Disgust	0.7	Interaction
+Harry Potter	 Hermione Granger	Anger	1.0	Interaction
+Ron Weasley	 Hermione Granger	Friendliness	0.5	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.6	Interaction
+Harry Potter	 Draco Malfoy	Envy	0.4	Interaction
+Ron Weasley	 Ginny	Envy	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Ron Weasley	 Hermione Granger	Disgust	0.8	Interaction
+Harry Potter	 Hermione Granger	Sad	0.9	Interaction
+Ron Weasley	 Hermione Granger	Disgust	0.7	Interaction
+Harry Potter	 Ron Weasley	Guilt	0.9	Interaction
+Hermione Granger	 Harry Potter	Gratitude	0.8	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.6	Interaction
+Harry Potter	 Crabbe	Sad	0.3	Interaction
+Harry Potter	 Draco Malfoy	Pity	0.2	Interaction
+Harry Potter	 Ginny	Happy	1.0	Interaction
+Ron Weasley	 Hermione Granger	Sad	0.5	Interaction
+Harry Potter	 Hagrid	Gratitude	0.7	Interaction
+Grawp	 Hagrid	Friendship	0.8	Interaction
+Harry Potter	 Ginny	Sad	0.9	Interaction
+Harry Potter	 Ginny	Fear	0.5	Interaction
+Harry Potter	 Ginny	Gratitude	0.7	Interaction
+Ginny	 Harry Potter	Romance	0.8	Interaction
+Harry Potter	 Scrimgeour	Annoyance	0.4	Interaction
+Harry Potter	 Scrimgeour	Anger	1.0	Interaction
+Harry Potter	 Scrimgeour	Laughing	1.0	Interaction
+Harry Potter	 Scrimgeour	Anger	1.0	Interaction
+Harry Potter	 Scrimgeour	Disgust	1.0	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Ron Weasley	 Hermione Granger	Amusement	0.7	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.9	Interaction
+Hermione Granger	 Harry Potter	Sadness	0.9	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Hermione Granger	 Harry Potter	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Rufus Scrimgeour	 Albus Dumbledore	Envy	0.5	Interaction
+Rufus Scrimgeour	 Ministry of Magic	Friendship	0.6	Interaction
+Augusta Longbottom	 Rufus Scrimgeour	Gratitude	0.7	Interaction
+Vernon Dursley	 Albus Dumbledore	Anger	1.0	Interaction
+Vernon Dursley	 Petunia Dursley	Happy	1.0	Interaction
+Vernon Dursley	 Albus Dumbledore	Fear	0.9	Interaction
+Albus Dumbledore	 Petunia Dursley	Friendly	0.7	Interaction
+Vernon Dursley	 Albus Dumbledore	Anger	0.9	Interaction
+Albus Dumbledore	 Vernon Dursley	Friendly	0.8	Interaction
+Albus Dumbledore	 Petunia Dursley	Friendly	0.8	Interaction
+Dudley Dursley	 Albus Dumbledore	Surprise	0.9	Interaction
+Albus Dumbledore	 Vernon Dursley	Fear	1.0	Interaction
+Vernon Dursley	 Albus Dumbledore	Anger	1.0	Interaction
+Albus Dumbledore	 Vernon Dursley	Friendship	0.5	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Vernon Dursley	Happy	1.0	Interaction
+Vernon Dursley	 Albus Dumbledore	Fear	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Relief	0.7	Interaction
+Vernon Dursley	 Albus Dumbledore	Envy	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.9	Interaction
+Aunt Petunia	 Vernon Dursley	Fear	1.0	Interaction
+Dudley Dursley	 Vernon Dursley	Fear	0.9	Interaction
+Kreacher	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.9	Interaction
+Harry Potter	 Kreacher	Anger	1.0	Interaction
+Kreacher	 Harry Potter	Fear	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Kreacher	Friendship	0.9	Interaction
+Harry Potter	 Hagrid	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Dudley Dursley	 Vernon Dursley	Sad	0.0	Interaction
+Vernon Dursley	 Aunt Petunia	Disgust	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 The Dursleys	Friendship	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.5	Interaction
+Harry Potter	 Fenrir	Fear	1.0	Interaction
+Harry Potter	 Ginny	Surprise	0.5	Interaction
+Harry Potter	 Neville	Gratitude	0.5	Interaction
+Harry Potter	 Severus Snape	Anger	0.8	Interaction
+Harry Potter	 Hagrid	Happy	1.0	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Hagrid	Gratitude	1.0	Interaction
+Harry Potter	 Hagrid	Friendship	1.0	Interaction
+Harry Potter	 Severus Snape	Fear	0.8	Interaction
+Hagrid	 Harry Potter	Disbelief	0.9	Interaction
+Harry Potter	 Hagrid	Sad	0.8	Interaction
+Hagrid	 Harry Potter	Sad	0.9	Interaction
+Hagrid	 Harry Potter	Fear	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Sad	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Betrayal	0.7	Interaction
+Harry Potter	 Dark Lord	Fear	0.9	Interaction
+Harry Potter	 Regulus Arcturus Black	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Happy	0.7	Interaction
+Albus Dumbledore	 Mrs. Cole	Happy	0.8	Interaction
+Mrs. Cole	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Mrs. Cole	Gratitude	0.9	Interaction
+Mrs. Cole	 Albus Dumbledore	Curious	0.8	Interaction
+Albus Dumbledore	 Mrs. Cole	Friendly	0.9	Interaction
+Mrs. Cole	 Albus Dumbledore	Interested	0.7	Interaction
+Albus Dumbledore	 Mrs. Cole	Friendly	0.9	Interaction
+Mrs. Cole	 Albus Dumbledore	Interested	0.8	Interaction
+Albus Dumbledore	 Mrs. Cole	Friendly	0.9	Interaction
+Albus Dumbledore	 Mrs. Cole	Friendship	0.9	Interaction
+Mrs. Cole	 Albus Dumbledore	Gratitude	0.7	Interaction
+Mrs. Cole	 Albus Dumbledore	Friendship	0.9	Interaction
+Albus Dumbledore	 Mrs. Cole	Happy	1.0	Interaction
+Mrs. Cole	 Albus Dumbledore	Friendship	0.9	Interaction
+Mrs. Cole	 Albus Dumbledore	Friendship	0.8	Interaction
+Albus Dumbledore	 Mrs. Cole	Gratitude	0.8	Interaction
+Mrs. Cole	 Albus Dumbledore	Trust	0.9	Interaction
+Albus Dumbledore	 Mrs. Cole	Understanding	0.7	Interaction
+TomRiddle	 Albus Dumbledore	Friendship	0.5	Interaction
+Tom Riddle	 Albus Dumbledore	Surprise	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Fear	0.9	Interaction
+Albus Dumbledore	 Tom Riddle	Patience	0.8	Interaction
+Tom Riddle	 Albus Dumbledore	Anger	1.0	Interaction
+Albus Dumbledore	 Tom Riddle	Surprise	0.9	Interaction
+Tom Riddle	 Albus Dumbledore	Fear	0.8	Interaction
+Albus Dumbledore	 Tom Riddle	Patience	0.9	Interaction
+Harry Potter	 Tom Riddle	Fear	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Fear	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Surprise	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Anger	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Greed	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Fear	1.0	Interaction
+Tom Riddle	 Albus Dumbledore	Fear	1.0	Interaction
+Harry Potter	 Tom Riddle	Surprise	0.5	Interaction
+Tom Riddle	 Albus Dumbledore	Respect	0.8	Interaction
+Tom Riddle	 Albus Dumbledore	Appreciation	0.9	Interaction
+Albus Dumbledore	 Tom Riddle	Affection	0.7	Interaction
+Albus Dumbledore	 Tom Riddle	Friendship	0.3	Interaction
+Tom Riddle	 Albus Dumbledore	Gratitude	0.6	Interaction
+Albus Dumbledore	 Tom Riddle	Surprise	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.3	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Curiosity	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.6	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.9	Interaction
+Lavender Brown	 Ron Weasley	Anger	1.0	Interaction
+Ron Weasley	 Lavender Brown	Guilt	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.6	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.9	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Dean	Friendship	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	1.0	Interaction
+Harry Potter	 Katie	Romance	0.2	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Draco Malfoy	Fear	1.0	Interaction
+Harry Potter	 Draco Malfoy	Surprise	1.0	Interaction
+Harry Potter	 Draco Malfoy	Anger	1.0	Interaction
+Harry Potter	 Draco Malfoy	Fear	1.0	Interaction
+Harry Potter	 Draco Malfoy	Disgust	1.0	Interaction
+Harry Potter	 Draco Malfoy	Guilt	1.0	Interaction
+Harry Potter	 Severus Snape	Fear	1.0	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Severus Snape	Gratitude	0.3	Interaction
+Harry Potter	 Severus Snape	Betrayal	1.0	Interaction
+Harry Potter	 Severus Snape	Guilt	1.0	Interaction
+Harry Potter	 Severus Snape	Disgust	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Severus Snape	Fear	1.0	Interaction
+Harry Potter	 The Room of Requirement	Gratitude	0.5	Interaction
+Harry Potter	 Severus Snape	Fear	0.9	Interaction
+Severus Snape	 Harry Potter	Anger	0.8	Interaction
+Harry Potter	 Severus Snape	Fear	0.7	Interaction
+Severus Snape	 Harry Potter	Anger	0.6	Interaction
+Harry Potter	 Severus Snape	Fear	0.5	Interaction
+Severus Snape	 Harry Potter	Anger	0.4	Interaction
+Harry Potter	 Severus Snape	Fear	0.3	Interaction
+Severus Snape	 Harry Potter	Anger	0.2	Interaction
+Harry Potter	 Severus Snape	Fear	0.1	Interaction
+Severus Snape	 Harry Potter	Anger	0.0	Interaction
+Harry Potter	 Hermione Granger	Envy	0.7	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Hermione Granger	 Ron Weasley	Anger	0.6	Interaction
+Harry Potter	 Ginny	Apprehension	0.7	Interaction
+Hermione Granger	 Harry Potter	Disapproval	0.8	Interaction
+Hermione Granger	 Harry Potter	Envy	0.5	Interaction
+Ginny	 Hermione Granger	Happy	1.0	Interaction
+Hermione Granger	 Ginny	Anger	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.5	Interaction
+Hermione Granger	 Ginny	Disgust	1.0	Interaction
+Harry Potter	 Ron Weasley	Fear	0.7	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.5	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.6	Interaction
+Hermione Granger	 Harry Potter	Gratitude	0.9	Interaction
+Ron Weasley	 Lavender Brown	Romance	0.7	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	1.0	Interaction
+Harry Potter	 Madam Pince	Fear	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.5	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.7	Interaction
+Harry Potter	 Hermione Granger	Anger	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Gratitude	1.0	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.6	Interaction
+Harry Potter	 Hermione Granger	Envy	0.8	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.9	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.6	Interaction
+Harry Potter	 Hermione Granger	Envy	0.3	Interaction
+Harry Potter	 Hermione Granger	Anger	1.0	Interaction
+Hermione Granger	 Harry Potter	Amusement	0.7	Interaction
+Harry Potter	 Hermione Granger	Friendly	0.9	Interaction
+Harry Potter	 Romilda Vane	Friendly	0.7	Interaction
+Hermione Granger	 Harry Potter	Amusement	0.5	Interaction
+Hermione Granger	 Harry Potter	Amusement	0.6	Interaction
+Romilda	 Harry Potter	Sad	0.5	Interaction
+Hermione Granger	 Harry Potter	Gratitude	0.7	Interaction
+Ron Weasley	 Lavender Brown	Romance	1.0	Interaction
+Ron Weasley	 Hermione Granger	Sad	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.6	Interaction
+Luna	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.8	Interaction
+Harry Potter	 Luna	Friendship	0.5	Interaction
+Luna	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Luna	Happy	0.8	Interaction
+Luna	 Harry Potter	Happy	0.9	Interaction
+Harry Potter	 Luna	Fear	0.3	Interaction
+Harry Potter	 Luna	Surprise	0.5	Interaction
+Peeves	 Harry Potter	Surprise	0.9	Interaction
+Ron Weasley	 Lavender Brown	Friendship	0.7	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Ginny	 Harry Potter	Friendship	0.8	Interaction
+Ron Weasley	 Hermione Granger	Guilt	0.6	Interaction
+Parvati	 Harry Potter	Friendship	0.7	Interaction
+Ron Weasley	 Hermione Granger	Gratitude	0.8	Interaction
+Parvati	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Parvati	Happy	0.9	Interaction
+Hermione Granger	 Parvati	Friendship	0.6	Interaction
+Parvati	 Hermione Granger	Surprise	0.8	Interaction
+Hermione Granger	 Parvati	Happy	0.7	Interaction
+Harry Potter	 Luna	Surprise	0.4	Interaction
+Luna	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Luna	Sad	0.5	Interaction
+Harry Potter	 Horace Slughorn	Friendship	0.8	Interaction
+Worple	 Harry Potter	Gratitude	1.0	Interaction
+Worple	 Harry Potter	Gratitude	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	1.0	Interaction
+Hermione Granger	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.7	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Sad	0.8	Interaction
+Harry Potter	 Luna	Friendly	0.2	Interaction
+Luna	 Professor Trelawney	Polite	0.3	Interaction
+Professor Trelawney	 Firenze	Anger	1.0	Interaction
+Harry Potter	 Hermione Granger	Anger	0.9	Interaction
+Harry Potter	 Luna	Surprise	0.3	Interaction
+Harry Potter	 Professor Trelawney	Surprise	0.7	Interaction
+Harry Potter	 Sybill Trelawney	Friendship	0.9	Interaction
+Harry Potter	 Horace Slughorn	Friendship	0.7	Interaction
+Horace Slughorn	 Severus Snape	Surprise	0.5	Interaction
+Horace Slughorn	 Severus Snape	Gratitude	0.6	Interaction
+Severus Snape	 Harry Potter	Disgust	0.8	Interaction
+Horace Slughorn	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Draco Malfoy	Surprise	0.8	Interaction
+Horace Slughorn	 Draco Malfoy	Gratitude	1.0	Interaction
+Filch	 Draco Malfoy	Fear	0.9	Interaction
+Harry Potter	 Luna	Surprise	0.8	Interaction
+Harry Potter	 Horace Slughorn	Gratitude	1.0	Interaction
+Horace Slughorn	 Draco Malfoy	Friendship	0.9	Interaction
+Draco Malfoy	 Horace Slughorn	Gratitude	0.8	Interaction
+Severus Snape	 Draco Malfoy	Anger	1.0	Interaction
+Horace Slughorn	 Severus Snape	Disgust	0.7	Interaction
+Severus Snape	 Draco Malfoy	Anger	0.9	Interaction
+Draco Malfoy	 Severus Snape	Resentful	0.8	Interaction
+Draco Malfoy	 Severus Snape	Anger	0.9	Interaction
+Draco Malfoy	 Severus Snape	Anger	0.7	Interaction
+Draco Malfoy	 Severus Snape	Defiance	0.8	Interaction
+Severus Snape	 Draco Malfoy	Frustration	0.7	Interaction
+Draco Malfoy	 Severus Snape	Defiance	0.9	Interaction
+Harry Potter	 Draco Malfoy	Anger	0.9	Interaction
+Draco Malfoy	 Harry Potter	Anger	0.9	Interaction
+Harry Potter	 Draco Malfoy	Gratitude	0.7	Interaction
+Draco Malfoy	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Draco Malfoy	Anger	0.9	Interaction
+Draco Malfoy	 Harry Potter	Anger	0.9	Interaction
+Severus Snape	 Draco Malfoy	Fear	0.8	Interaction
+Draco Malfoy	 Severus Snape	Envy	0.8	Interaction
+Fred Weasley	 George	Sad	0.8	Interaction
+Ginny	 Fred Weasley	Sad	0.8	Interaction
+Harry Potter	 Hermione Granger	Sad	0.8	Interaction
+Ginny	 George	Sad	0.6	Interaction
+Fred Weasley	 George	Sad	0.6	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.7	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.7	Interaction
+Harry Potter	 Fred Weasley	Sad	1.0	Interaction
+Ginny	 Fred Weasley	Fear	0.5	Interaction
+Ginny	 Fred Weasley	Friendship	0.7	Interaction
+George	 Fred Weasley	Friendship	0.7	Interaction
+Ginny	 Harry Potter	Friendship	0.8	Interaction
+Harry Potter	 Ginny	Friendship	0.9	Interaction
+Hagrid	 Harry Potter	Happy	1.0	Interaction
+Hagrid	 Madam Pomfrey	Fear	0.8	Interaction
+George	 Madam Pomfrey	Surprise	0.9	Interaction
+Hagrid	 Ron Weasley	Sad	0.9	Interaction
+Harry Potter	 Fred Weasley	Friendship	0.8	Interaction
+Hermione Granger	 Fred Weasley	Friendship	0.8	Interaction
+Molly Weasley	 Harry Potter	Gratitude	1.0	Interaction
+Hagrid	 Harry Potter	Happy	0.7	Interaction
+Arthur Weasley	 Harry Potter	Gratitude	0.8	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.9	Interaction
+Hagrid	 Hermione Granger	Friendship	0.8	Interaction
+Hagrid	 Harry Potter	Fear	0.8	Interaction
+Hagrid	 Harry Potter	Betrayal	0.9	Interaction
+Hagrid	 Harry Potter	Guilt	0.8	Interaction
+Harry Potter	 Hagrid	Surprise	0.9	Interaction
+Hagrid	 Filch	Anger	0.9	Interaction
+Hagrid	 Filch	Anger	0.85	Interaction
+Harry Potter	 Hermione Granger	Fear	0.7	Interaction
+Peeves	 Filch	Happy	1.0	Interaction
+Lavender Brown	 Hermione Granger	Envy	0.9	Interaction
+Harry Potter	 Draco Malfoy	Fear	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.7	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Harry Potter	 Draco Malfoy	Fear	0.8	Interaction
+Minerva McGonagall	 Luna	Disgust	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	0.9	Interaction
+Harry Potter	 McLaggen	Anger	0.9	Interaction
+Harry Potter	 Ginny	Friendship	0.8	Interaction
+Harry Potter	 Luna	Surprise	0.7	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Madam Pomfrey	Anger	1.0	Interaction
+Madam Pomfrey	 Harry Potter	Firm	1.0	Interaction
+Ron Weasley	 Harry Potter	Friendly	0.5	Interaction
+Harry Potter	 Ron Weasley	Anger	1.0	Interaction
+Ron Weasley	 Harry Potter	Friendly	0.5	Interaction
+Ron Weasley	 Harry Potter	Friendly	0.5	Interaction
+Ginny	 Harry Potter	Romance	1.0	Interaction
+Harry Potter	 Ron Weasley	Gratitude	0.9	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Fear	0.6	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Ron Weasley	 Harry Potter	Gratitude	0.8	Interaction
+Dobby	 Kreacher	Anger	1.0	Interaction
+Kreacher	 Dobby	Anger	1.0	Interaction
+Harry Potter	 Peeves	Anger	1.0	Interaction
+Dobby	 Harry Potter	Friendship	1.0	Interaction
+Kreacher	 Harry Potter	Gratitude	0.5	Interaction
+Dobby	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Kreacher	Fear	0.8	Interaction
+Harry Potter	 Dobby	Friendship	1.0	Interaction
+Harry Potter	 Kreacher	Gratitude	0.5	Interaction
+Harry Potter	 Kreacher	Fear	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.7	Interaction
+Hermione Granger	 Lavender Brown	Surprise	0.5	Interaction
+Ron Weasley	 Lavender Brown	Romance	0.8	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.5	Interaction
+Harry Potter	 Hermione Granger	Sad	0.5	Interaction
+Neville	 Minerva McGonagall	Fear	0.7	Interaction
+Neville	 Minerva McGonagall	Gratitude	0.6	Interaction
+Neville	 Minerva McGonagall	Gratitude	0.9	Interaction
+Parvati	 Minerva McGonagall	Surprise	0.3	Interaction
+Harry Potter	 Ron Weasley	Happy	0.5	Interaction
+Harry Potter	 Hermione Granger	Happy	0.7	Interaction
+Harry Potter	 Katie Bell	Gratitude	0.8	Interaction
+Ron Weasley	 Katie Bell	Fear	0.2	Interaction
+Katie Bell	 Ron Weasley	Warning	0.7	Interaction
+Harry Potter	 Severus Snape	Fear	1.0	Interaction
+Parvati Patil	 Severus Snape	Fear	0.8	Interaction
+Harry Potter	 Severus Snape	Surprise	1.0	Interaction
+Ron Weasley	 Severus Snape	Fear	1.0	Interaction
+Hermione Granger	 Severus Snape	Gratitude	0.7	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Severus Snape	Fear	0.5	Interaction
+Severus Snape	 Harry Potter	Disgust	0.5	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Ron Weasley	Disapproval	0.7	Interaction
+Harry Potter	 Ron Weasley	Anger	0.9	Interaction
+Harry Potter	 Hermione Granger	Disbelief	0.7	Interaction
+Hermione Granger	 Harry Potter	Admiration	0.8	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.5	Interaction
+Hermione Granger	 Harry Potter	Admiration	0.9	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.9	Interaction
+Harry Potter	 Jack Sloper	Friendship	0.8	Interaction
+Ernie	 Harry Potter	Friendship	0.3	Interaction
+Ernie	 Ron Weasley	Friendship	0.3	Interaction
+Horace Slughorn	 Hermione Granger	Happy	1.0	Interaction
+Horace Slughorn	 Harry Potter	Friendly	1.0	Interaction
+Hermione Granger	 Horace Slughorn	Gratitude	1.0	Interaction
+Hermione Granger	 Horace Slughorn	Gratitude	1.0	Interaction
+Hermione Granger	 Harry Potter	Gratitude	1.0	Interaction
+Ron Weasley	 Hermione Granger	Happy	0.5	Interaction
+Hermione Granger	 Ron Weasley	Happy	0.8	Interaction
+Hermione Granger	 Horace Slughorn	Surprise	0.7	Interaction
+Ernie Macmillan	 Horace Slughorn	Respectful	0.9	Interaction
+Terry Boot	 Horace Slughorn	Interest	0.8	Interaction
+Michael Corner	 Horace Slughorn	Interest	0.8	Interaction
+Harry Potter	 Horace Slughorn	Surprise	1.0	Interaction
+Draco Malfoy	 Horace Slughorn	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Happy	0.6	Interaction
+Hermione Granger	 Harry Potter	Gratitude	0.8	Interaction
+Harry Potter	 Ron Weasley	Envy	0.4	Interaction
+Horace Slughorn	 Draco Malfoy	Surprise	0.7	Interaction
+Draco Malfoy	 Horace Slughorn	Disappointment	0.9	Interaction
+Ron Weasley	 Harry Potter	Jealousy	0.3	Interaction
+Harry Potter	 Ron Weasley	Happy	0.5	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.8	Interaction
+Harry Potter	 Ginny	Fear	0.7	Interaction
+Ginny	 Harry Potter	Disgust	0.7	Interaction
+Hermione Granger	 Harry Potter	Disgust	0.8	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.5	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Harry Potter	 Hermione Granger	Friendship	1.0	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Ron Weasley	 Hermione Granger	Admiration	0.8	Interaction
+Hermione Granger	 Ron Weasley	Disgust	0.9	Interaction
+Hermione Granger	 Harry Potter	Friendship	0.9	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.8	Interaction
+Hermione Granger	 Ron Weasley	Anger	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	0.8	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.9	Interaction
+Hermione Granger	 Ron Weasley	Happy	0.8	Interaction
+Harry Potter	 Dean	Friendship	0.8	Interaction
+Seamus	 Harry Potter	Envy	0.9	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	0.5	Interaction
+Hermione Granger	 Ron Weasley	Concern	0.8	Interaction
+Ron Weasley	 Harry Potter	Anger	0.8	Interaction
+Hermione Granger	 Ron Weasley	Disgust	1.0	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.6	Interaction
+Hermione Granger	 Ron Weasley	Anger	0.8	Interaction
+Hermione Granger	 Harry Potter	Envy	0.9	Interaction
+Harry Potter	 Hermione Granger	Betrayal	0.9	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Harry Potter	 Harper	Anger	1.0	Interaction
+Harry Potter	 Ginny	Friendship	1.0	Interaction
+Ron Weasley	 Zacharias	Envy	1.0	Interaction
+Ginny	 Harry Potter	Friendship	1.0	Interaction
+Ginny	 Ron Weasley	Friendship	1.0	Interaction
+Zacharias	 Coote	Disgust	1.0	Interaction
+Coote	 Harry Potter	Friendship	1.0	Interaction
+Coote	 Harper	Anger	1.0	Interaction
+Madam Hooch	 Harry Potter	Fear	1.0	Interaction
+Madam Hooch	 Harper	Betrayal	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Harry Potter	 Hermione Granger	Gratitude	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Ron Weasley	 Hermione Granger	Anger	1.0	Interaction
+Hermione Granger	 Ron Weasley	Anger	1.0	Interaction
+Ron Weasley	 Hermione Granger	Anger	1.0	Interaction
+Harry Potter	 Hermione Granger	Sad	0.5	Interaction
+Hermione Granger	 Ron Weasley	Sad	0.5	Interaction
+Harry Potter	 Ginny	Friendship	0.8	Interaction
+Ginny	 Harry Potter	Gratitude	0.7	Interaction
+Harry Potter	 Ginny	Surprise	0.5	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Sad	0.8	Interaction
+Harry Potter	 Ron Weasley	Fear	0.7	Interaction
+Ron Weasley	 Lavender Brown	Romance	0.9	Interaction
+Ron Weasley	 Hermione Granger	Betrayal	1.0	Interaction
+Hermione Granger	 Ron Weasley	Disgust	0.9	Interaction
+Harry Potter	 Hermione Granger	Sad	0.9	Interaction
+Harry Potter	 Hermione Granger	Anger	0.8	Interaction
+Harry Potter	 Hermione Granger	Sad	0.7	Interaction
+Narcissa	 Bellatrix Lestrange	Anger	1.0	Interaction
+Bellatrix Lestrange	 Narcissa	Anger	1.0	Interaction
+Narcissa	 Bellatrix Lestrange	Anger	1.0	Interaction
+Bellatrix Lestrange	 Narcissa	Fear	0.7	Interaction
+Narcissa	 Bellatrix Lestrange	Anger	0.8	Interaction
+Bellatrix Lestrange	 Narcissa	Friendship	0.5	Interaction
+Narcissa	 Bellatrix Lestrange	Betrayal	0.9	Interaction
+Narcissa	 Severus Snape	Happy	0.8	Interaction
+Severus Snape	 Bellatrix Lestrange	Neutral	0.5	Interaction
+Severus Snape	 Wormtail	Neutral	0.5	Interaction
+Severus Snape	 Wormtail	Happy	0.4	Interaction
+Severus Snape	 Wormtail	Anger	0.8	Interaction
+Wormtail	 Severus Snape	Fear	0.9	Interaction
+Severus Snape	 Wormtail	Amusement	0.8	Interaction
+Severus Snape	 Wormtail	Disgust	0.8	Interaction
+Severus Snape	 Bellatrix Lestrange	Gratitude	0.6	Interaction
+Narcissa	 Severus Snape	Friendship	0.7	Interaction
+Narcissa	 Severus Snape	Gratitude	0.75	Interaction
+Bellatrix Lestrange	 Severus Snape	Disgust	0.9	Interaction
+Bellatrix Lestrange	 Severus Snape	Anger	0.9	Interaction
+Severus Snape	 Bellatrix Lestrange	Anger	1.0	Interaction
+Severus Snape	 Bellatrix Lestrange	Anger	0.8	Interaction
+Severus Snape	 Bellatrix Lestrange	Anger	0.5	Interaction
+Severus Snape	 Bellatrix Lestrange	Anger	0.9	Interaction
+Severus Snape	 Bellatrix Lestrange	Envy	0.8	Interaction
+Narcissa	 Bellatrix Lestrange	Betrayal	0.9	Interaction
+Bellatrix Lestrange	 Severus Snape	Anger	1.0	Interaction
+Severus Snape	 Bellatrix Lestrange	Disgust	0.9	Interaction
+Bellatrix Lestrange	 Narcissa	Anger	1.0	Interaction
+Bellatrix Lestrange	 Severus Snape	Envy	0.9	Interaction
+Severus Snape	 Bellatrix Lestrange	Disgust	0.9	Interaction
+Bellatrix Lestrange	 Severus Snape	Anger	1.0	Interaction
+Bellatrix Lestrange	 Narcissa	Friendship	0.8	Interaction
+Narcissa	 Severus Snape	Gratitude	0.9	Interaction
+Bellatrix Lestrange	 Severus Snape	Betrayal	1.0	Interaction
+Narcissa	 Severus Snape	Gratitude	0.8	Interaction
+Narcissa	 Bellatrix Lestrange	Envy	0.6	Interaction
+Severus Snape	 Narcissa	Sad	0.9	Interaction
+Severus Snape	 Narcissa	Gratitude	0.7	Interaction
+Narcissa	 Severus Snape	Fear	0.9	Interaction
+Narcissa	 Severus Snape	Envy	0.8	Interaction
+Narcissa	 Severus Snape	Guilt	0.8	Interaction
+Narcissa	 Bellatrix Lestrange	Disgust	0.7	Interaction
+Narcissa	 Severus Snape	Gratitude	0.7	Interaction
+Narcissa	 Severus Snape	Romance	1.0	Interaction
+Bellatrix Lestrange	 Severus Snape	Surprise	1.0	Interaction
+Narcissa	 Severus Snape	Friendship	1.0	Interaction
+Narcissa	 Severus Snape	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	0.5	Interaction
+Ron Weasley	 Fred Weasley	Anger	0.75	Interaction
+Fred Weasley	 George	Envy	0.5	Interaction
+Ron Weasley	 Lavender Brown	Romance	0.9	Interaction
+Mrs Weasley	 Fred Weasley	Friendship	0.8	Interaction
+Harry Potter	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Arthur Weasley	Gratitude	0.8	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Lupin	Neutral	0.0	Interaction
+Harry Potter	 Arthur Weasley	Neutral	0.0	Interaction
+Arthur Weasley	 Lupin	Neutral	0.0	Interaction
+Arthur Weasley	 Celestina	Happy	1.0	Interaction
+Fleur	 Arthur Weasley	Relief	0.7	Interaction
+Harry Potter	 Lupin	Curiosity	0.9	Interaction
+Harry Potter	 Lupin	Gratitude	0.9	Interaction
+Harry Potter	 Lupin	Excitement	1.0	Interaction
+Lupin	 Harry Potter	Amusement	0.8	Interaction
+Harry Potter	 Lupin	Happy	0.5	Interaction
+Lupin	 Harry Potter	Understanding	0.7	Interaction
+Harry Potter	 Lupin	Persistent	0.6	Interaction
+Lupin	 Harry Potter	Assuring	0.9	Interaction
+Harry Potter	 Lupin	Confused	0.4	Interaction
+Lupin	 Harry Potter	Encouraging	0.8	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.9	Interaction
+Ron Weasley	 Harry Potter	Gratitude	0.5	Interaction
+Ron Weasley	 Harry Potter	Happy	1.0	Interaction
+Ginny	 Harry Potter	Friendly	0.8	Interaction
+Ron Weasley	 Hermione Granger	Envy	0.9	Interaction
+Fred Weasley	 George	Gratitude	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Molly Weasley	 Fred Weasley	Gratitude	1.0	Interaction
+Ron Weasley	 Fleur	Happy	1.0	Interaction
+Molly Weasley	 Lupin	Annoyance	0.5	Interaction
+Harry Potter	 Lupin	Curious	0.8	Interaction
+Molly Weasley	 Percy Weasley	Surprise	1.0	Interaction
+Molly Weasley	 Percy Weasley	Happy	1.0	Interaction
+Arthur Weasley	 Fred Weasley	Disgust	0.5	Interaction
+Scrimgeour	 Harry Potter	Friendship	0.3	Interaction
+Harry Potter	 Lupin	Surprise	0.3	Interaction
+Harry Potter	 Arthur Weasley	Surprise	0.3	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Neutral	0.5	Interaction
+Harry Potter	 Scrimgeour	Anger	1.0	Interaction
+Harry Potter	 Scrimgeour	Anger	1.0	Interaction
+Harry Potter	 Scrimgeour	Anger	1.0	Interaction
+Harry Potter	 Scrimgeour	Surprise	1.0	Interaction
+Harry Potter	 Scrimgeour	Disgust	0.8	Interaction
+Harry Potter	 Scrimgeour	Anger	0.9	Interaction
+Scrimgeour	 Harry Potter	Surprise	0.7	Interaction
+Harry Potter	 Scrimgeour	Anger	0.7	Interaction
+Scrimgeour	 Harry Potter	Guilt	0.9	Interaction
+Harry Potter	 Scrimgeour	Friendship	0.5	Interaction
+Harry Potter	 Scrimgeour	Anger	0.9	Interaction
+Harry Potter	 Scrimgeour	Betrayal	1.0	Interaction
+Scrimgeour	 Harry Potter	Surprise	0.7	Interaction
+Harry Potter	 Scrimgeour	Anger	0.8	Interaction
+Scrimgeour	 Harry Potter	Anger	0.8	Interaction
+Harry Potter	 Scrimgeour	Anger	0.9	Interaction
+Harry Potter	 Scrimgeour	Friendship	0.6	Interaction
+Harry Potter	 Scrimgeour	Disgust	0.8	Interaction
+Harry Potter	 Scrimgeour	Friendship	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.5	Interaction
+Ron Weasley	 Hermione Granger	Annoyance	0.7	Interaction
+Ron Weasley	 Harry Potter	Gratitude	0.9	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.4	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.7	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.6	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.5	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.6	Interaction
+Hermione Granger	 Ron Weasley	Friendship	0.7	Interaction
+Ron Weasley	 Harry Potter	Friendship	0.4	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.3	Interaction
+Ron Weasley	 Hermione Granger	Fear	0.8	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.7	Interaction
+Harry Potter	 Hermione Granger	Disgust	0.8	Interaction
+Dobby	 Harry Potter	Gratitude	1.0	Interaction
+Kreacher	 Dobby	Resentful	0.9	Interaction
+Hermione Granger	 Harry Potter	Indignant	0.9	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.7	Interaction
+Harry Potter	 Kreacher	Gratitude	0.7	Interaction
+Dobby	 Harry Potter	Happy	1.0	Interaction
+Kreacher	 Dobby	Anger	1.0	Interaction
+Harry Potter	 Kreacher	Happy	0.5	Interaction
+Harry Potter	 Dobby	Happy	0.5	Interaction
+Ron Weasley	 Hermione Granger	Gratitude	0.7	Interaction
+Kreacher	 Hermione Granger	Disgust	0.9	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Dobby	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Ron Weasley	 Harry Potter	Sad	0.8	Interaction
+Hermione Granger	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Hermione Granger	Surprise	0.8	Interaction
+Harry Potter	 Ron Weasley	Surprise	1.0	Interaction
+Ron Weasley	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Ron Weasley	Friendship	0.8	Interaction
+Harry Potter	 Hermione Granger	Gratitude	0.7	Interaction
+Ron Weasley	 Hermione Granger	Friendship	0.9	Interaction
+Harry Potter	 Ron Weasley	Happy	0.7	Interaction
+Harry Potter	 Hermione Granger	Annoyance	0.8	Interaction
+Harry Potter	 Ron Weasley	Inquisitive	0.5	Interaction
+Harry Potter	 Ron Weasley	Disappointment	0.8	Interaction
+Harry Potter	 Draco Malfoy	Fear	0.7	Interaction
+Harry Potter	 The Room of Requirement	Disappointment	0.8	Interaction
+Harry Potter	 Severus Snape	Surprise	1.0	Interaction
+Pansy Parkinson	 Harry Potter	Envy	0.6	Interaction
+Harry Potter	 Ron Weasley	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Happy	0.5	Interaction
+Ron Weasley	 Harry Potter	Friendship	1.0	Interaction
+Ron Weasley	 Myrtle	Sad	0.7	Interaction
+Ron Weasley	 Harry Potter	Friendly	0.9	Interaction
+Myrtle	 Harry Potter	Disappointment	0.8	Interaction
+Harry Potter	 Myrtle	Embarassed	0.5	Interaction
+Myrtle	 Ron Weasley	Disgust	0.5	Interaction
+Ron Weasley	 Myrtle	Amusement	0.8	Interaction
+Ron Weasley	 Myrtle	Goading	0.7	Interaction
+Harry Potter	 Ron Weasley	Jealousy	0.6	Interaction
+Hermione Granger	 Harry Potter	Encouraging	0.9	Interaction
+Harry Potter	 Ron Weasley	Happy	1.0	Interaction
+Harry Potter	 Goyle	Fear	1.0	Interaction
+Harry Potter	 Draco Malfoy	Betrayal	0.5	Interaction
+Harry Potter	 Nymphadora Tonks	Sad	0.6	Interaction
+Harry Potter	 Nymphadora Tonks	Friendship	0.5	Interaction
+Harry Potter	 Nymphadora Tonks	Sad	0.8	Interaction
+Ron Weasley	 Hermione Granger	Friendship	1.0	Interaction
+Ron Weasley	 Hermione Granger	Envy	0.8	Interaction
+Hermione Granger	 Harry Potter	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.9	Interaction
+Harry Potter	 Hermione Granger	Friendship	0.3	Interaction
+Hermione Granger	 Ron Weasley	Sad	0.75	Interaction
+Ron Weasley	 Hermione Granger	Anger	0.9	Interaction
+Hermione Granger	 Ron Weasley	Disgust	0.85	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Harry Potter	 Nick	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Excitement	1.0	Interaction
+Harry Potter	 Nick	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Excitement	1.0	Interaction
+Harry Potter	 Nick	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Excitement	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.7	Interaction
+Albus Dumbledore	 Tom Riddle	Happy	0.6	Interaction
+Tom Riddle	 Horace Slughorn	Happy	0.5	Interaction
+Horace Slughorn	 Tom Riddle	Happy	0.9	Interaction
+Horace Slughorn	 Tom Riddle	Fear	0.9	Interaction
+Horace Slughorn	 Tom Riddle	Surprise	0.8	Interaction
+Horace Slughorn	 Tom Riddle	Fear	0.9	Interaction
+Harry Potter	 Tom Riddle	Surprise	1.0	Interaction
+Tom Riddle	 Horace Slughorn	Friendship	0.8	Interaction
+Tom Riddle	 Horace Slughorn	Gratitude	0.7	Interaction
+Harry Potter	 Tom Riddle	Surprise	0.7	Interaction
+Tom Riddle	 Horace Slughorn	Friendship	0.9	Interaction
+Tom Riddle	 Horace Slughorn	Friendship	0.7	Interaction
+Horace Slughorn	 Harry Potter	Fear	0.9	Interaction
+Horace Slughorn	 Tom Riddle	Hunger	0.8	Interaction
+Tom Riddle	 Horace Slughorn	Greed	0.7	Interaction
+Horace Slughorn	 Tom Riddle	Fear	0.7	Interaction
+Horace Slughorn	 Tom Riddle	Fear	0.9	Interaction
+Tom Riddle	 Horace Slughorn	Gratitude	0.7	Interaction
+Horace Slughorn	 Tom Riddle	Friendship	0.6	Interaction
+Tom Riddle	 Horace Slughorn	Curiosity	0.8	Interaction
+Horace Slughorn	 Tom Riddle	Disgust	0.9	Interaction
+Albus Dumbledore	 Tom Riddle	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Happy	0.8	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Happy	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	0.2	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.5	Interaction
+Albus Dumbledore	 Harry Potter	Surprise	0.8	Interaction
+Harry Potter	 Albus Dumbledore	Fear	0.7	Interaction
+Harry Potter	 Albus Dumbledore	Surprise	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	1.0	Interaction
+Harry Potter	 Lord Voldemort	Envy	0.7	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.9	Interaction
+Harry Potter	 Albus Dumbledore	Gratitude	1.0	Interaction
+Albus Dumbledore	 Harry Potter	Gratitude	0.5	Interaction
+Harry Potter	 Albus Dumbledore	Fear	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Friendship	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.9	Interaction
+Albus Dumbledore	 Harry Potter	Friendship	0.9	Interaction
+Harry Potter	 Draco Malfoy	Fear	0.8	Interaction
+Albus Dumbledore	 Draco Malfoy	Disgust	0.9	Interaction
+Harry Potter	 Draco Malfoy	Fear	0.6	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.9	Interaction
+Draco Malfoy	 Albus Dumbledore	Guilt	0.6	Interaction
+Albus Dumbledore	 Draco Malfoy	Gratitude	0.4	Interaction
+Albus Dumbledore	 Draco Malfoy	Betrayal	0.8	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.7	Interaction
+Albus Dumbledore	 Draco Malfoy	Gratitude	0.2	Interaction
+Draco Malfoy	 Albus Dumbledore	Envy	0.7	Interaction
+Albus Dumbledore	 Draco Malfoy	Surprise	0.7	Interaction
+Draco Malfoy	 Albus Dumbledore	Betrayal	0.9	Interaction
+Albus Dumbledore	 Draco Malfoy	Gratitude	0.2	Interaction
+Draco Malfoy	 Albus Dumbledore	Betrayal	0.8	Interaction
+Draco Malfoy	 Granger	Envy	0.9	Interaction
+Albus Dumbledore	 Draco Malfoy	Betrayal	0.9	Interaction
+Albus Dumbledore	 Draco Malfoy	Envy	0.4	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Sad	0.8	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Surprise	0.9	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.9	Interaction
+Draco Malfoy	 Albus Dumbledore	Gratitude	0.8	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.9	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.8	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.9	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.9	Interaction
+Albus Dumbledore	 Fenrir	Fear	1.0	Interaction
+Fenrir	 Albus Dumbledore	Anger	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	0.75	Interaction
+Albus Dumbledore	 Draco Malfoy	Friendship	0.8	Interaction
+Amycus	 Albus Dumbledore	Anger	1.0	Interaction
+Albus Dumbledore	 Amycus	Friendship	0.5	Interaction
+Albus Dumbledore	 Greyback	Happy	1.0	Interaction
+Draco Malfoy	 Greyback	Fear	1.0	Interaction
+Albus Dumbledore	 Greyback	Disgust	1.0	Interaction
+Draco Malfoy	 Albus Dumbledore	Fear	1.0	Interaction
+Amycus	 Albus Dumbledore	Envy	1.0	Interaction
+Albus Dumbledore	 Amycus	Gratitude	0.5	Interaction
+Severus Snape	 Albus Dumbledore	Betrayal	1.0	Interaction
+Lupin	 Ron Weasley	Sad	0.7	Interaction
+Madam Pomfrey	 Harry Potter	Disgust	0.7	Interaction
+Ron Weasley	 Lupin	Friendship	1.0	Interaction
+Ron Weasley	 Harry Potter	Sad	1.0	Interaction
+Nymphadora Tonks	 Lupin	Sad	0.5	Interaction
+Hermione Granger	 Harry Potter	Sad	0.5	Interaction
+Molly Weasley	 Arthur	Sad	1.0	Interaction
+Minerva McGonagall	 Harry Potter	Sad	0.5	Interaction
+Minerva McGonagall	 Severus Snape	Sad	0.5	Interaction
+Lupin	 Severus Snape	Sad	0.5	Interaction
+Nymphadora Tonks	 Harry Potter	Happy	1.0	Interaction
+Lupin	 Harry Potter	Disgust	1.0	Interaction
+Minerva McGonagall	 Harry Potter	Guilt	1.0	Interaction
+Lupin	 Minerva McGonagall	Friendship	1.0	Interaction
+Harry Potter	 Ron Weasley	Envy	0.5	Interaction
+Ron Weasley	 Harry Potter	Guilt	1.0	Interaction
+Ron Weasley	 Ginny	Gratitude	1.0	Interaction
+Lupin	 Ron Weasley	Gratitude	1.0	Interaction
+Harry Potter	 Hermione Granger	Gratitude	1.0	Interaction
+Lupin	 Hermione Granger	Gratitude	1.0	Interaction
+Nymphadora Tonks	 Neville	Gratitude	1.0	Interaction
+Ginny	 Severus Snape	Gratitude	1.0	Interaction
+Ron Weasley	 Severus Snape	Gratitude	1.0	Interaction
+Lupin	 Nymphadora Tonks	Sad	0.7	Interaction
+Minerva McGonagall	 Harry Potter	Anger	1.0	Interaction
+Harry Potter	 Severus Snape	Anger	1.0	Interaction
+Harry Potter	 Albus Dumbledore	Sad	0.9	Interaction
+Molly Weasley	 Arthur	Fear	1.0	Interaction
+Molly Weasley	 Bill	Love	1.0	Interaction
+Arthur	 Minerva McGonagall	Fear	0.9	Interaction
+Arthur	 Lupin	Fear	0.8	Interaction
+Arthur Weasley	 Molly Weasley	Happy	1.0	Interaction
+Molly Weasley	 Fleur	Surprise	0.5	Interaction
+Fleur	 Molly Weasley	Anger	0.9	Interaction
+Molly Weasley	 Fleur	Gratitude	0.7	Interaction
+Fleur	 Molly Weasley	Romance	1.0	Interaction
+Molly Weasley	 Fleur	Surprise	0.6	Interaction
+Molly Weasley	 Fleur	Gratitude	0.8	Interaction
+Fleur	 Molly Weasley	Gratitude	0.9	Interaction
+Molly Weasley	 Fleur	Happy	1.0	Interaction
+Fleur	 Molly Weasley	Happy	1.0	Interaction
+Molly Weasley	 Fleur	Happy	1.0	Interaction
+Nymphadora Tonks	 Lupin	Anger	1.0	Interaction
+Molly Weasley	 Lupin	Disgust	0.7	Interaction
+Arthur Weasley	 Lupin	Friendship	0.9	Interaction
+Minerva McGonagall	 Lupin	Disgust	0.7	Interaction
+Hagrid	 Minerva McGonagall	Gratitude	0.9	Interaction
+Harry Potter	 Minerva McGonagall	Sad	0.9	Interaction
+Harry Potter	 Minerva McGonagall	Disgust	0.8	Interaction
+Minerva McGonagall	 Harry Potter	Anger	0.9	Interaction
+Minerva McGonagall	 Horace Slughorn	Surprise	1.0	Interaction
+Minerva McGonagall	 Everard	Gratitude	0.7	Interaction
+Minerva McGonagall	 Hagrid	Happy	1.0	Interaction
+Hagrid	 Harry Potter	Happy	1.0	Interaction
+Hagrid	 Minerva McGonagall	Happy	1.0	Interaction
+Ron Weasley	 Harry Potter	Sad	0.8	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.7	Interaction
+Ron Weasley	 Harry Potter	Surprise	0.9	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.7	Interaction
+Ron Weasley	 Harry Potter	Sad	0.8	Interaction
+Harry Potter	 Ron Weasley	Disgust	0.7	Interaction
+Prime Minister	 Political Opponent	Anger	0.9	Interaction
+Prime Minister	 Junior Minister Herbert Chorley	Betrayal	0.9	Interaction
+Prime Minister	 Fudge	Surprise	0.9	Interaction
+Prime Minister	 Cornelius Fudge	Fear	0.4	Interaction
+Prime Minister	 Albus Dumbledore	Fear	0.9	Interaction
+Prime Minister	 Albus Dumbledore	Disgust	0.7	Interaction
+Prime Minister	 Albus Dumbledore	Gratitude	0.3	Interaction
+Prime Minister	 Albus Dumbledore	Betrayal	0.4	Interaction
+Prime Minister	 Albus Dumbledore	Surprise	0.8	Interaction
+Prime Minister	 Albus Dumbledore	Guilt	0.6	Interaction
+Prime Minister	 Fudge	Surprise	0.8	Interaction
+Fudge	 Prime Minister	Anger	0.9	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Fear	1.0	Interaction
+Prime Minister	 Fudge	Disgust	1.0	Interaction
+Fudge	 Prime Minister	Sad	1.0	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Fear	1.0	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Anger	1.0	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Disgust	1.0	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Fear	0.8	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Fear	0.7	Interaction
+Prime Minister	 Fudge	Anger	1.0	Interaction
+Fudge	 Prime Minister	Sadness	0.6	Interaction
+Prime Minister	 Fudge	Surprise	1.0	Interaction
+Fudge	 Prime Minister	Sadness	0.9	Interaction
+Prime Minister	 Fudge	Surprise	1.0	Interaction
+Fudge	 Prime Minister	Gratitude	0.8	Interaction
+Fudge	 Albus Dumbledore	Envy	0.9	Interaction
+Scrimgeour	 Prime Minister	Anger	0.8	Interaction
+Scrimgeour	 Fudge	Surprise	1.0	Interaction
